@@ -8,7 +8,12 @@
   "description":"UI Library for Angular",
   "author":{
     "name":"Rachit Gupta",
+    "license": "MIT",
     "url":"https://github.com/rachitgupta98"
   },
-  "keywords":["UI Library","Angular UI","MUI","CSS for Angular","Angular 8"]
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rachitgupta98/angular-mui.git"
+  },
+  "keywords":["UI Library","Angular UI","MUI","CSS for Angular","Angular 8","typescript","ui-components"]
 }
