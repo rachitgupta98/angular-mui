@@ -8,9 +8,9 @@
   "description":"UI Library for Angular",
   "author":{
     "name":"Rachit Gupta",
-    "license": "MIT",
     "url":"https://github.com/rachitgupta98"
   },
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rachitgupta98/angular-mui.git"
