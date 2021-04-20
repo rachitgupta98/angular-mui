@@ -40,7 +40,9 @@ import { MuiModule } from 'angular-mui';
 export class AppModule {}
 ```
 
+
 ## Mui Components
+
 
 ### Buttons
 
@@ -55,6 +57,18 @@ export class AppModule {}
 
 ### Theming
 Buttons background can be colored using color attribute to predefined color(primay,secondary,success) or any other color.
+
+## Usage Example
+
+```typescript
+// app.component.html
+<button mui-btn variant='text' color="primary">Primary</button> // text button
+
+<button mui-btn variant='contained' color="primary">Primary</button> // contained button
+
+<button mui-btn variant='outline' color="primary">Primary</button>  // outline button
+
+```
 
 ### Cards
 Mui Cards will be uploaded in next version.
