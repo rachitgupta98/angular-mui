@@ -44,6 +44,8 @@ export class AppModule {}
 
 ### Buttons
 
+![mui buttons](https://github.com/rachitgupta98/angular-mui/blob/master/assets/mui-buttons.png)
+
 | Attribute | Description |
 | --- | --- |
 | `mui-btn` | It will enhance button to mui button |
