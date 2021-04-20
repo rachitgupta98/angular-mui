@@ -7,4 +7,4 @@ import { ButtonDirective } from "../directives/button/button.directive";
   imports: [CommonModule],
   exports: [ButtonDirective],
 })
-export class ModernUiModule {}
+export class MuiModule {}
