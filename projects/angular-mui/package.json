@@ -5,10 +5,10 @@
     "@angular/common": "^8.2.14",
     "@angular/core": "^8.2.14"
   },
-  "description":"UI Framework for Angular",
+  "description":"UI Library for Angular",
   "author":{
     "name":"Rachit Gupta",
     "url":"https://github.com/rachitgupta98"
   },
-  "keywords":["UI Framework","Angular UI","MUI","CSS for Angular"]
+  "keywords":["UI Library","Angular UI","MUI","CSS for Angular","Angular 8"]
 }
