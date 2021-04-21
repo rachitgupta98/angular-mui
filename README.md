@@ -1,6 +1,7 @@
 # angular-mui
 
 [![NPM version](https://img.shields.io/npm/v/angular-mui.svg)](https://npmjs.org/package/angular-mui)
+[![NPM Downloads](https://img.shields.io/npm/dt/angular-mui.svg?style=flat)](https://www.npmjs.com/package/angular-mui?minimal=true)
 
 This is UI library for [Angular](https://angular.io/)
 
